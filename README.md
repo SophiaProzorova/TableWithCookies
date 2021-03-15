@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Task description
+## Task description
 You need to write an ajax-invitation to the server, get a response to the json-array with information about the files in the folders (name, size, time of creation and modification), display in the icon window, as in the operating system.
 Adapt the viewing under the phone and laptop, add a sort sort switch to the list of files by name, size, creation date.
 Save the selected sort as conditional sort in cookies.
